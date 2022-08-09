@@ -1,27 +1,31 @@
 {
     "users":[
         {
+            "id": 1,
             "name":"sang.phan@ap.averydennison.com",
             "dept": "sale",
             "saletype": "lo",
             "level": 3
         },
         {
+            "id": 2,
             "name":"nhan.h.nguyen@ap.averydennison.com",
             "dept": "sale",
             "saletype": "lo",
             "level": 2
         },
         {
+            "id": 3,
             "name":"thoai.tran@ap.averydennison.com",
             "dept": "sale",
-            "saletype": "fs",
+            "saletype": "lo",
             "level": 1
         },
         {
+            "id": 4,
             "name":"thoai.tran@ap.averydennison.com",
             "dept": "sale",
-            "saletype": "fs",
+            "saletype": "lo",
             "level": 0
         }
     ],

@@ -1,0 +1,36 @@
+{
+    "users":[
+        {
+            "name":"sang.phan@ap.averydennison.com",
+            "dept": "sale",
+            "saletype": "lo",
+            "level": 3
+        },
+        {
+            "name":"nhan.h.nguyen@ap.averydennison.com",
+            "dept": "sale",
+            "saletype": "lo",
+            "level": 2
+        },
+        {
+            "name":"thoai.tran@ap.averydennison.com",
+            "dept": "sale",
+            "saletype": "lo",
+            "level": 1
+        },
+        {
+            "name":"thoai.tran@ap.averydennison.com",
+            "dept": "sale",
+            "saletype": "lo",
+            "level": 0
+        },
+    ],
+    "productline":[
+        "PFL",
+        "HTL",
+        "RFID",
+        "Woven",
+        "Offset Digital",
+        "Paper Thermal"
+    ]
+}

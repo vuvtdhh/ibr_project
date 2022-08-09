@@ -5,6 +5,7 @@
             "name":"sang.phan@ap.averydennison.com",
             "dept": "sale",
             "saletype": "lo",
+            "line": null,
             "level": 3
         },
         {
@@ -12,6 +13,7 @@
             "name":"nhan.h.nguyen@ap.averydennison.com",
             "dept": "sale",
             "saletype": "lo",
+            "line": null,
             "level": 2
         },
         {
@@ -19,6 +21,7 @@
             "name":"thoai.tran@ap.averydennison.com",
             "dept": "sale",
             "saletype": "lo",
+            "line": null,
             "level": 1
         },
         {
@@ -26,8 +29,65 @@
             "name":"thoai.tran@ap.averydennison.com",
             "dept": "sale",
             "saletype": "lo",
+            "line": null,
             "level": 0
-        }
+        },
+        {
+            "id": 4,
+            "name":"thoai.tran@ap.averydennison.com",
+            "dept": "sale",
+            "saletype": "lo",
+            "line": null,
+            "level": 0
+        },
+        {
+            "id": 5,
+            "name":"sang.phan@ap.averydennison.com",
+            "dept": "ppc",
+            "saletype": null,
+            "line": "PFL",
+            "level": 3
+        },
+        {
+            "id": 6,
+            "name":"thoai.tran@ap.averydennison.com",
+            "dept": "ppc",
+            "saletype": null,
+            "line": "Woven",
+            "level": 1
+        },
+        {
+            "id": 7,
+            "name":"thoai.tran@ap.averydennison.com",
+            "dept": "ppc",
+            "saletype": null,
+            "line": "RFID",
+            "level": 2
+        },
+        {
+            "id": 8,
+            "name":"sang.phan@ap.averydennison.com",
+            "dept": "ppc",
+            "saletype": null,
+            "line": "HTL",
+            "level": 3
+        },
+        {
+            "id": 9,
+            "name":"thoai.tran@ap.averydennison.com",
+            "dept": "ppc",
+            "saletype": null,
+            "line": "Woven",
+            "level": 2
+        },
+        {
+            "id": 10,
+            "name":"thoai.tran@ap.averydennison.com",
+            "dept": "ppc",
+            "saletype": null,
+            "line": "PFL",
+            "level": 1
+        },
     ],
     "productline":[
         "PFL",

@@ -6,6 +6,8 @@
             "dept": "sale",
             "saletype": "lo",
             "line": null,
+            "manager_lv1": "nhan.h.nguyen@ap.averydennison.com",
+            "manager_lv0": "thoai.tran@ap.averydennison.com",
             "level": 3
         },
         {
@@ -14,6 +16,8 @@
             "dept": "sale",
             "saletype": "lo",
             "line": null,
+            "manager_lv1": "thoai.tran@ap.averydennison.com",
+            "manager_lv0": "thoai.tran@ap.averydennison.com",
             "level": 2
         },
         {
@@ -22,6 +26,8 @@
             "dept": "sale",
             "saletype": "lo",
             "line": null,
+            "manager_lv1": "thoai.tran@ap.averydennison.com",
+            "manager_lv0": "thoai.tran@ap.averydennison.com",
             "level": 1
         },
         {
@@ -30,14 +36,8 @@
             "dept": "sale",
             "saletype": "lo",
             "line": null,
-            "level": 0
-        },
-        {
-            "id": 4,
-            "name":"thoai.tran@ap.averydennison.com",
-            "dept": "sale",
-            "saletype": "lo",
-            "line": null,
+            "manager_lv1": "thoai.tran@ap.averydennison.com",
+            "manager_lv0": "thoai.tran@ap.averydennison.com",
             "level": 0
         },
         {
@@ -46,6 +46,8 @@
             "dept": "ppc",
             "saletype": null,
             "line": "PFL",
+            "manager_lv1": "nhan.h.nguyen@ap.averydennison.com",
+            "manager_lv0": "thoai.tran@ap.averydennison.com",
             "level": 3
         },
         {
@@ -54,6 +56,8 @@
             "dept": "ppc",
             "saletype": null,
             "line": "Woven",
+            "manager_lv1": "thoai.tran@ap.averydennison.com",
+            "manager_lv0": "thoai.tran@ap.averydennison.com",
             "level": 1
         },
         {
@@ -62,6 +66,8 @@
             "dept": "ppc",
             "saletype": null,
             "line": "RFID",
+            "manager_lv1": "thoai.tran@ap.averydennison.com",
+            "manager_lv0": "thoai.tran@ap.averydennison.com",
             "level": 2
         },
         {
@@ -70,6 +76,8 @@
             "dept": "ppc",
             "saletype": null,
             "line": "HTL",
+            "manager_lv1": null,
+            "manager_lv0": "thoai.tran@ap.averydennison.com",
             "level": 3
         },
         {
@@ -78,6 +86,8 @@
             "dept": "ppc",
             "saletype": null,
             "line": "Woven",
+            "manager_lv1": "thoai.tran@ap.averydennison.com",
+            "manager_lv0": "thoai.tran@ap.averydennison.com",
             "level": 2
         },
         {
@@ -86,6 +96,8 @@
             "dept": "ppc",
             "saletype": null,
             "line": "PFL",
+            "manager_lv1": "thoai.tran@ap.averydennison.com",
+            "manager_lv0": "thoai.tran@ap.averydennison.com",
             "level": 1
         }
     ],

@@ -107,22 +107,22 @@
         },
         {
             "id": 11,
-            "name":"anhtuan.nguyen@ap.averydennison.com",
+            "name":"nguyen.phamduc@ap.averydennison.com",
             "dept": "finance",
             "saletype": null,
             "line": null,
-            "manager_lv1": "hung.truong@ap.averydennison.com",
-            "manager_lv0": "hung.truong@ap.averydennison.com",
+            "manager_lv1": "nguyen.phamduc@ap.averydennison.com",
+            "manager_lv0": "nguyen.phamduc@ap.averydennison.com",
             "level": 2
         },
         {
             "id": 12,
-            "name":"hung.truong@ap.averydennison.com",
+            "name":"nguyen.phamduc@ap.averydennison.com",
             "dept": "finance",
             "saletype": null,
             "line": null,
-            "manager_lv1": "hung.truong@ap.averydennison.com",
-            "manager_lv0": "hung.truong@ap.averydennison.com",
+            "manager_lv1": "nguyen.phamduc@ap.averydennison.com",
+            "manager_lv0": "nguyen.phamduc@ap.averydennison.com",
             "level": 3
         }
     ],

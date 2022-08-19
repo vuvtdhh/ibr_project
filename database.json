@@ -1,6 +1,6 @@
 {
     "gm": {
-        "vp": "triet.nguyen@ap.averydennison.com",
+        "vp": "tam.chau@ap.averydennison.com",
         "sale_dr": "tam.chau@ap.averydennison.com",
         "cs_dr": "evelyn.nguyen@ap.averydennison.com"
     },
@@ -11,7 +11,7 @@
             "dept": "sale",
             "saletype": "lo",
             "line": null,
-            "manager_lv1": "nhan.h.nguyen@ap.averydennison.com",
+            "manager_lv1": "sang.phan@ap.averydennison.com",
             "manager_lv0": "thoai.tran@ap.averydennison.com",
             "level": 3
         },
@@ -51,7 +51,7 @@
             "dept": "ppc",
             "saletype": null,
             "line": "PFL",
-            "manager_lv1": "nhan.h.nguyen@ap.averydennison.com",
+            "manager_lv1": "sang.phan@ap.averydennison.com",
             "manager_lv0": "thoai.tran@ap.averydennison.com",
             "level": 3
         },

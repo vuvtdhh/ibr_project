@@ -7,11 +7,11 @@
     "users":[
         {
             "id": 1,
-            "name":"tam.chau@ap.averydennison.com",
+            "name":"sang.phan@ap.averydennison.com",
             "dept": "sale",
             "saletype": "lo",
             "line": null,
-            "manager_lv1": "nhan.h.nguyen@ap.averydennison.com",
+            "manager_lv1": "thoai.tran@ap.averydennison.com",
             "manager_lv0": "thoai.tran@ap.averydennison.com",
             "level": 3
         },

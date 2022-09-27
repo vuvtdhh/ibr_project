@@ -767,6 +767,16 @@
             "manager_lv1": "katherine.luu@ap.averydennison.com",
             "manager_lv0": "gregory.degardin@ap.averydennison.com",
             "level": 3
+        },
+        {
+            "id": 77,
+            "name":"thoai.tran@ap.averydennison.com",
+            "dept": "sale",
+            "saletype": "lo",
+            "line": null,
+            "manager_lv1": "thoai.tran@ap.averydennison.com",
+            "manager_lv0": "thoai.tran@ap.averydennison.com",
+            "level": 2
         }
     ],
     "productline":[

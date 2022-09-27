@@ -31,7 +31,7 @@
             "dept": "sale",
             "saletype": "lo",
             "line": null,
-            "manager_lv1": "nhan.h.nguyen@ap.averydennison.com",
+            "manager_lv1": "sang.phan@ap.averydennison.com",
             "manager_lv0": "nhan.h.nguyen@ap.averydennison.com",
             "level": 1
         },
@@ -42,7 +42,7 @@
             "saletype": "lo",
             "line": null,
             "manager_lv1": "triet.nguyen@ap.averydennison.com",
-            "manager_lv0": "triet.nguyen@ap.averydennison.com",
+            "manager_lv0": "sang.phan@ap.averydennison.com",
             "level": 0
         },
         {
@@ -128,7 +128,7 @@
         {
             "id": 13,
             "name":"sang.phan@ap.averydennison.com",
-            "dept": "admin",
+            "dept": "sale",
             "saletype": null,
             "line": null,
             "manager_lv1": "nguyen.phamduc@ap.averydennison.com",

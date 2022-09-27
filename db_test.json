@@ -128,9 +128,9 @@
         {
             "id": 13,
             "name":"sang.phan@ap.averydennison.com",
-            "dept": "sale",
-            "saletype": "lo",
-            "line": null,
+            "dept": "ppc",
+            "saletype": null,
+            "line": "PFL",
             "manager_lv1": "sang.phan@ap.averydennison.com",
             "manager_lv0": "sang.phan@ap.averydennison.com",
             "level": 2

@@ -124,16 +124,6 @@
             "manager_lv1": "nguyen.phamduc@ap.averydennison.com",
             "manager_lv0": "nguyen.phamduc@ap.averydennison.com",
             "level": 3
-        },
-        {
-            "id": 13,
-            "name":"sang.phan@ap.averydennison.com",
-            "dept": "sale",
-            "saletype": null,
-            "line": null,
-            "manager_lv1": "nguyen.phamduc@ap.averydennison.com",
-            "manager_lv0": "nguyen.phamduc@ap.averydennison.com",
-            "level": 3
         }
     ],
     "productline":[

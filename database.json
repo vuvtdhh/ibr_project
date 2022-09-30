@@ -84,7 +84,7 @@
         },
         {
             "id": 8,
-            "name":"selena.ngo1@ap.averydennison.com",
+            "name":"selena.ngo@ap.averydennison.com",
             "dept": "sale",
             "saletype": "fs",
             "line": null,
@@ -616,7 +616,7 @@
             "dept": "sale",
             "saletype": "fs",
             "line": null,
-            "manager_lv1": "selena.ngo1@ap.averydennison.com",
+            "manager_lv1": "selena.ngo@ap.averydennison.com",
             "manager_lv0": "paul.nguyen@ap.averydennison.com",
             "role": "s",
             "level": 3
@@ -627,7 +627,7 @@
             "dept": "sale",
             "saletype": "fs",
             "line": null,
-            "manager_lv1": "selena.ngo1@ap.averydennison.com",
+            "manager_lv1": "selena.ngo@ap.averydennison.com",
             "manager_lv0": "paul.nguyen@ap.averydennison.com",
             "role": "s",
             "level": 3
@@ -638,7 +638,7 @@
             "dept": "sale",
             "saletype": "fs",
             "line": null,
-            "manager_lv1": "selena.ngo1@ap.averydennison.com",
+            "manager_lv1": "selena.ngo@ap.averydennison.com",
             "manager_lv0": "paul.nguyen@ap.averydennison.com",
             "role": "s",
             "level": 3
@@ -649,7 +649,7 @@
             "dept": "sale",
             "saletype": "fs",
             "line": null,
-            "manager_lv1": "selena.ngo1@ap.averydennison.com",
+            "manager_lv1": "selena.ngo@ap.averydennison.com",
             "manager_lv0": "paul.nguyen@ap.averydennison.com",
             "role": "s",
             "level": 3
@@ -660,7 +660,7 @@
             "dept": "sale",
             "saletype": "fs",
             "line": null,
-            "manager_lv1": "selena.ngo1@ap.averydennison.com",
+            "manager_lv1": "selena.ngo@ap.averydennison.com",
             "manager_lv0": "paul.nguyen@ap.averydennison.com",
             "role": "s",
             "level": 3

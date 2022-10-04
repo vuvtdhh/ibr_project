@@ -47,7 +47,7 @@
         },
         {
             "id": 5,
-            "name":"nguyen.phamduc@ap.averydennison.com",
+            "name":"tam.chau@ap.averydennison.com",
             "dept": "ppc",
             "saletype": null,
             "line": "PFL",
@@ -77,7 +77,7 @@
         },
         {
             "id": 8,
-            "name":"nguyen.phamduc@ap.averydennison.com",
+            "name":"tam.chau@ap.averydennison.com",
             "dept": "ppc",
             "saletype": null,
             "line": "HTL",
@@ -107,7 +107,7 @@
         },
         {
             "id": 11,
-            "name":"nguyen.phamduc@ap.averydennison.com",
+            "name":"triet.nguyen@ap.averydennison.com",
             "dept": "finance",
             "saletype": null,
             "line": null,
@@ -117,7 +117,7 @@
         },
         {
             "id": 12,
-            "name":"nguyen.phamduc@ap.averydennison.com",
+            "name":"tam.chau@ap.averydennison.com",
             "dept": "finance",
             "saletype": null,
             "line": null,
@@ -131,7 +131,7 @@
             "dept": "sale",
             "saletype": "lo",
             "line": null,
-            "manager_lv1": "thoai.tran@ap.averydennison.com",
+            "manager_lv1": "nhan.h.nguyen@ap.averydennison.com",
             "manager_lv0": "thoai.tran@ap.averydennison.com",
             "level": 3
         }

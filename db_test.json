@@ -8,7 +8,7 @@
 
     {"id":4,"name":"triet.nguyen@ap.averydennison.com","dept":"sale","saletype":"lo","line":null,"manager_lv1":"triet.nguyen@ap.averydennison.com","manager_lv0":"sang.phan@ap.averydennison.com","role":"s","level":0},
 
-    {"id":5,"name":"tam.chau@ap.averydennison.com","dept":"ppc","saletype":null,"line":"PFL","manager_lv1":"thoai.tran@ap.averydennison.com","manager_lv0":"thoai.tran@ap.averydennison.com","role":"p","level":3},
+    {"id":5,"name":"tam.chau@ap.averydennison.com","dept":"ppc","saletype":null,"line":"PFL","manager_lv1":"nguyen.phamduc@ap.averydennison.com","manager_lv0":"thoai.tran@ap.averydennison.com","role":"p","level":3},
 
     {"id":6,"name":"tuyen.vo@ap.averydennison.com","dept":"ppc","saletype":null,"line":"Woven","manager_lv1":"thoai.tran@ap.averydennison.com","manager_lv0":"thoai.tran@ap.averydennison.com","role":"p","level":3},
 

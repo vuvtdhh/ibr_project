@@ -2,7 +2,7 @@
 
     {"id":1,"name":"thoai.tran@ap.averydennison.com","dept":"ppc","saletype":null,"line":"HTL","manager_lv1":"thoai.tran@ap.averydennison.com","manager_lv0":"thoai.tran@ap.averydennison.com","role":"s","level":2},
 
-    {"id":2,"name":"nhan.h.nguyen@ap.averydennison.com","dept":"sale","saletype":"fs","line":null,"manager_lv1":"thoai.tran@ap.averydennison.com","manager_lv0":"thoai.tran@ap.averydennison.com","role":"s","level":2},
+    
 
     {"id":3,"name":"thoai.tran@ap.averydennison.com","dept":"sale","saletype":"fs","line":null,"manager_lv1":"sang.phan@ap.averydennison.com","manager_lv0":"nhan.h.nguyen@ap.averydennison.com","role":"s","level":1},
 
